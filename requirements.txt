@@ -1,0 +1,9 @@
+pandas
+requests
+jupyter
+matplotlib
+seaborn
+wbdata
+fredapi
+geopandas
+openpyxl

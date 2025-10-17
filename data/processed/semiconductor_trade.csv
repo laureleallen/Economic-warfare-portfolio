@@ -1,0 +1,16 @@
+Year,TradeValueUSD,Quantity,Reporter,Partner,Flow,Commodity,ReportedFlag,AggregateFlag
+2010,7903767147.0,0.0,China,,Imports,Semiconductors,True,False
+2011,6368050147.0,0.0,China,,Imports,Semiconductors,True,False
+2012,7001486217.0,0.0,China,,Imports,Semiconductors,True,False
+2013,14203311548.0,0.0,China,,Imports,Semiconductors,True,False
+2014,11113787226.0,0.0,China,,Imports,Semiconductors,True,False
+2015,22739254558.0,970008782.3709999,China,,Imports,Semiconductors,False,True
+2016,17392242506.0,862796800.555,China,,Imports,Semiconductors,False,True
+2017,20423236734.0,0.0,China,,Imports,Semiconductors,False,True
+2018,12018316937.0,0.0,China,,Imports,Semiconductors,False,True
+2019,13571791401.0,0.0,China,,Imports,Semiconductors,False,True
+2020,14223455156.0,0.0,China,,Imports,Semiconductors,False,True
+2021,15734159486.0,0.0,China,,Imports,Semiconductors,False,True
+2022,12181956717.0,0.0,China,,Imports,Semiconductors,False,True
+2023,8306920666.0,0.0,China,,Imports,Semiconductors,False,True
+2024,11754177020.0,0.0,China,,Imports,Semiconductors,False,True
